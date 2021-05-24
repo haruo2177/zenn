@@ -6,9 +6,3 @@ price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
 chapters:
   - introduction
-  - make-some-accounts
-  - install-some-tools
-  - create-vue-project
-  - setting-firebase-and-github-actions
-  - watch-auto-deploy
-  - conclusion
