@@ -1,8 +1,0 @@
-title: "Webアプリ開発 雰囲気入門ガイド"
-summary: "「簡略」化が進み初学者の参入障壁が高くなったWebアプリ開発の雰囲気を掴むための入門書"
-topics: ["GitHub", "Firebase", "Vue", "GitHubActions", "cicd"]
-published: false
-price: 0 # 有料の場合200〜5000
-# 本に含めるチャプターを順番に並べましょう
-chapters:
-  - introduction
